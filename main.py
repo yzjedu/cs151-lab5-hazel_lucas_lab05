@@ -12,5 +12,9 @@ while choice not in ['e','d','w','v']:
             balance -= amount
         else:
             print(f'Your current balance is ${balance:.2f}')
+
+        if balance < 0:
+            print("Your net balance is negative. You will be charged a 5% interest fee.")
+
         choice = input("Enter D, W, V, or E: ").lower()
 print("Thanks for using the ATM. Have a good day!")
