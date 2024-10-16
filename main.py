@@ -1,4 +1,4 @@
-# Programmers: Lucas Podowski, Hazel
+# Programmers: Lucas Podowski, Hazel Osborne
 # Course:  CS151, Zelalem Yalew
 # Due Date: 10/16/2024
 # Lab Assignment: 5
